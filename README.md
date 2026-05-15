@@ -1,4 +1,4 @@
-# vadithSSH
+# libssh2-3ds
 
 Minimal Nintendo 3DS `libssh2` port bundle.
 
